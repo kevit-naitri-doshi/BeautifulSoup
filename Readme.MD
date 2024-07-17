@@ -1,0 +1,1 @@
+# Web Scraping of Horoscope Website using BeautifulSoup
