@@ -1,6 +1,6 @@
 # Horoscope Web Scraper
 
-This project is a web scraper that extracts horoscope information from a specified website using BeautifulSoup 4. The scraped data includes daily horoscopes for various zodiac signs, which are then saved into a structured format for further analysis or use.
+This project is a web scraper that extracts horoscope information from a [HOROSCOPE](https://www.horoscope.com/us/index.aspx) website using BeautifulSoup 4. The scraped data includes daily horoscopes for various zodiac signs, which are then saved into a structured format for further analysis or use.
 
 ## Table of Contents
 
