@@ -16,8 +16,7 @@ This project is a web scraper that extracts horoscope information from a [HOROSC
 To get started with this project, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/horoscope-web-scraper.git
-cd horoscope-web-scraper
+git clone https://github.com/naitridoshi/Horoscope-Web-Scraper.git
 pip install -r requirements.txt
 ```
 
