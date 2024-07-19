@@ -22,10 +22,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. **Configure the scraper:**
-   - Open `config.py` and set the URL of the website you want to scrape.
-
-2. **Run the scraper:**
+1. **Run the scraper:**
    - Execute the main script to start scraping the data.
 
 ```bash

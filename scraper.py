@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import datetime
 
+
 def scrape_data(sign:int,day:str):
     try:
         page=requests.get(f'https://www.horoscope.com/us/horoscopes/general/horoscope-archive.aspx?sign={sign}&laDate={day}').text
