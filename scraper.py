@@ -54,6 +54,9 @@ def main():
         print(horoscope_summary)
         print()
         print("---------------------------------------------")
+        f=open('data.txt','a')
+        f.write(f'Horoscope Date: {horoscope_date}\n\nHoroscope Title: {horoscope_title}\n\nHoroscope Summary: {horoscope_summary}')
+        
 
 if __name__=="__main__":
     main()

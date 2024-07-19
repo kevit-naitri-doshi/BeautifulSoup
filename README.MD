@@ -30,12 +30,12 @@ python scraper.py
 ```
 
 3. **Output:**
-   - The scraped data will be saved into a CSV file named `horoscopes.csv` in the project directory.
+   - The scraped data will be saved into a Text file named `data.txt` in the project directory.
 
 ## Features
 
 - Scrapes daily horoscope information for all zodiac signs.
-- Saves the scraped data into a CSV file.
+- Saves the scraped data into a Text file.
 - Easily configurable to scrape from different horoscope websites.
 
 ## Dependencies
